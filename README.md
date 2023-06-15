@@ -1,5 +1,7 @@
 # Chat with GPT
 
+Modified for Scrub Daddy AI
+
 Chat with GPT is an open-source, unofficial ChatGPT app with extra features and more ways to customize your experience. It connects ChatGPT with ElevenLabs to give ChatGPT a realistic human voice.
 
 Try out the hosted version at: https://www.chatwithgpt.ai
